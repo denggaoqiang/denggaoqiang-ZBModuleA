@@ -1,0 +1,22 @@
+{
+  "name": "ZBGJModuleA",
+  "version": "0.1.0",
+  "summary": "A short description of ZBGJModuleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/胜利女神在微笑/ZBGJModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "胜利女神在微笑": "453923710@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/胜利女神在微笑/ZBGJModuleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBGJModuleA/Classes/**/*"
+}

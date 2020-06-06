@@ -1,0 +1,6 @@
+framework module ZBGJModuleA {
+  umbrella header "ZBGJModuleA-umbrella.h"
+
+  export *
+  module * { export * }
+}
